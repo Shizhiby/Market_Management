@@ -22,3 +22,4 @@ void sale_sum(struct Good * head); //统计商品的信息
 void storage_good (struct Good * head); //保存商品信息
 struct Good *open_good(struct Good *head);
 #endif // GOOD_H
+// add code annotation
